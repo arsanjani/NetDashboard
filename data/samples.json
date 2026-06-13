@@ -1,0 +1,3432 @@
+[
+  {
+    "id": 920,
+    "monitorId": 1,
+    "latency": 93.56,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:03.012Z"
+  },
+  {
+    "id": 921,
+    "monitorId": 2,
+    "latency": 117.56,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:06.147Z"
+  },
+  {
+    "id": 922,
+    "monitorId": 3,
+    "latency": 142.48,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:06.290Z"
+  },
+  {
+    "id": 923,
+    "monitorId": 4,
+    "latency": 136.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:06.428Z"
+  },
+  {
+    "id": 924,
+    "monitorId": 5,
+    "latency": 119.76,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:06.548Z"
+  },
+  {
+    "id": 925,
+    "monitorId": 1,
+    "latency": 67.13,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:07.620Z"
+  },
+  {
+    "id": 926,
+    "monitorId": 2,
+    "latency": 58.01,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:10.688Z"
+  },
+  {
+    "id": 927,
+    "monitorId": 3,
+    "latency": 60.64,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:10.749Z"
+  },
+  {
+    "id": 928,
+    "monitorId": 4,
+    "latency": 61.49,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:10.812Z"
+  },
+  {
+    "id": 929,
+    "monitorId": 5,
+    "latency": 67.25,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:10.879Z"
+  },
+  {
+    "id": 930,
+    "monitorId": 1,
+    "latency": 68.44,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:11.959Z"
+  },
+  {
+    "id": 931,
+    "monitorId": 2,
+    "latency": 46.71,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:15.018Z"
+  },
+  {
+    "id": 932,
+    "monitorId": 3,
+    "latency": 47.35,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:15.066Z"
+  },
+  {
+    "id": 933,
+    "monitorId": 4,
+    "latency": 51.66,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:15.118Z"
+  },
+  {
+    "id": 934,
+    "monitorId": 5,
+    "latency": 94.82,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:15.213Z"
+  },
+  {
+    "id": 935,
+    "monitorId": 1,
+    "latency": 47.92,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:16.267Z"
+  },
+  {
+    "id": 936,
+    "monitorId": 2,
+    "latency": 50.65,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:19.334Z"
+  },
+  {
+    "id": 937,
+    "monitorId": 3,
+    "latency": 47.44,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:19.382Z"
+  },
+  {
+    "id": 938,
+    "monitorId": 4,
+    "latency": 47.47,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:19.430Z"
+  },
+  {
+    "id": 939,
+    "monitorId": 5,
+    "latency": 51.84,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:19.482Z"
+  },
+  {
+    "id": 940,
+    "monitorId": 1,
+    "latency": 48.92,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:20.545Z"
+  },
+  {
+    "id": 941,
+    "monitorId": 2,
+    "latency": 46.19,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:23.601Z"
+  },
+  {
+    "id": 942,
+    "monitorId": 3,
+    "latency": 48.45,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:23.650Z"
+  },
+  {
+    "id": 943,
+    "monitorId": 4,
+    "latency": 47.44,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:23.698Z"
+  },
+  {
+    "id": 944,
+    "monitorId": 5,
+    "latency": 51.23,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:23.750Z"
+  },
+  {
+    "id": 945,
+    "monitorId": 1,
+    "latency": 59.09,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:24.829Z"
+  },
+  {
+    "id": 946,
+    "monitorId": 2,
+    "latency": 62.23,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:27.907Z"
+  },
+  {
+    "id": 947,
+    "monitorId": 3,
+    "latency": 48.53,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:27.956Z"
+  },
+  {
+    "id": 948,
+    "monitorId": 4,
+    "latency": 60,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:28.016Z"
+  },
+  {
+    "id": 949,
+    "monitorId": 5,
+    "latency": 51.56,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:28.068Z"
+  },
+  {
+    "id": 950,
+    "monitorId": 1,
+    "latency": 51.74,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:29.128Z"
+  },
+  {
+    "id": 951,
+    "monitorId": 2,
+    "latency": 47.71,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:32.183Z"
+  },
+  {
+    "id": 952,
+    "monitorId": 3,
+    "latency": 51.22,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:32.235Z"
+  },
+  {
+    "id": 953,
+    "monitorId": 4,
+    "latency": 52.01,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:32.288Z"
+  },
+  {
+    "id": 954,
+    "monitorId": 5,
+    "latency": 51.33,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:32.340Z"
+  },
+  {
+    "id": 955,
+    "monitorId": 1,
+    "latency": 45.73,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:33.395Z"
+  },
+  {
+    "id": 956,
+    "monitorId": 2,
+    "latency": 48.99,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:36.460Z"
+  },
+  {
+    "id": 957,
+    "monitorId": 3,
+    "latency": 47.45,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:36.508Z"
+  },
+  {
+    "id": 958,
+    "monitorId": 4,
+    "latency": 51.21,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:36.559Z"
+  },
+  {
+    "id": 959,
+    "monitorId": 5,
+    "latency": 48.05,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:36.608Z"
+  },
+  {
+    "id": 960,
+    "monitorId": 1,
+    "latency": 46.6,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:37.671Z"
+  },
+  {
+    "id": 961,
+    "monitorId": 2,
+    "latency": 46.34,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:40.732Z"
+  },
+  {
+    "id": 962,
+    "monitorId": 3,
+    "latency": 59.94,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:40.792Z"
+  },
+  {
+    "id": 963,
+    "monitorId": 4,
+    "latency": 47.39,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:40.840Z"
+  },
+  {
+    "id": 964,
+    "monitorId": 5,
+    "latency": 48.06,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:40.888Z"
+  },
+  {
+    "id": 965,
+    "monitorId": 1,
+    "latency": 95.32,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:41.995Z"
+  },
+  {
+    "id": 966,
+    "monitorId": 2,
+    "latency": 43.89,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:45.050Z"
+  },
+  {
+    "id": 967,
+    "monitorId": 3,
+    "latency": 47.96,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:45.099Z"
+  },
+  {
+    "id": 968,
+    "monitorId": 4,
+    "latency": 42.94,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:45.142Z"
+  },
+  {
+    "id": 969,
+    "monitorId": 5,
+    "latency": 47.59,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:45.191Z"
+  },
+  {
+    "id": 970,
+    "monitorId": 1,
+    "latency": 40.65,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:46.247Z"
+  },
+  {
+    "id": 971,
+    "monitorId": 2,
+    "latency": 39.6,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:49.291Z"
+  },
+  {
+    "id": 972,
+    "monitorId": 3,
+    "latency": 42.96,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:49.334Z"
+  },
+  {
+    "id": 973,
+    "monitorId": 4,
+    "latency": 40.03,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:49.375Z"
+  },
+  {
+    "id": 974,
+    "monitorId": 5,
+    "latency": 39.57,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:49.415Z"
+  },
+  {
+    "id": 975,
+    "monitorId": 1,
+    "latency": 38.24,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:50.471Z"
+  },
+  {
+    "id": 976,
+    "monitorId": 2,
+    "latency": 37.79,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:53.518Z"
+  },
+  {
+    "id": 977,
+    "monitorId": 3,
+    "latency": 40.89,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:53.559Z"
+  },
+  {
+    "id": 978,
+    "monitorId": 4,
+    "latency": 39.94,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:53.599Z"
+  },
+  {
+    "id": 979,
+    "monitorId": 5,
+    "latency": 42.76,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:53.642Z"
+  },
+  {
+    "id": 980,
+    "monitorId": 1,
+    "latency": 39.67,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:54.691Z"
+  },
+  {
+    "id": 981,
+    "monitorId": 2,
+    "latency": 64.74,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:57.758Z"
+  },
+  {
+    "id": 982,
+    "monitorId": 3,
+    "latency": 67.25,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:57.826Z"
+  },
+  {
+    "id": 983,
+    "monitorId": 4,
+    "latency": 68.11,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:57.894Z"
+  },
+  {
+    "id": 984,
+    "monitorId": 5,
+    "latency": 67.74,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:57.963Z"
+  },
+  {
+    "id": 985,
+    "monitorId": 1,
+    "latency": 73.57,
+    "lost": false,
+    "timestamp": "2026-06-13T21:11:59.043Z"
+  },
+  {
+    "id": 986,
+    "monitorId": 2,
+    "latency": 67.88,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:02.115Z"
+  },
+  {
+    "id": 987,
+    "monitorId": 3,
+    "latency": 67.36,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:02.183Z"
+  },
+  {
+    "id": 988,
+    "monitorId": 4,
+    "latency": 70.68,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:02.254Z"
+  },
+  {
+    "id": 989,
+    "monitorId": 5,
+    "latency": 75.46,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:02.330Z"
+  },
+  {
+    "id": 990,
+    "monitorId": 1,
+    "latency": 77.66,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:03.419Z"
+  },
+  {
+    "id": 991,
+    "monitorId": 2,
+    "latency": 145.08,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:06.567Z"
+  },
+  {
+    "id": 992,
+    "monitorId": 3,
+    "latency": 67,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:06.634Z"
+  },
+  {
+    "id": 993,
+    "monitorId": 4,
+    "latency": 67.88,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:06.702Z"
+  },
+  {
+    "id": 994,
+    "monitorId": 5,
+    "latency": 80.3,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:06.783Z"
+  },
+  {
+    "id": 995,
+    "monitorId": 1,
+    "latency": 68.07,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:07.862Z"
+  },
+  {
+    "id": 996,
+    "monitorId": 2,
+    "latency": 75.53,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:10.946Z"
+  },
+  {
+    "id": 997,
+    "monitorId": 3,
+    "latency": 75.37,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:11.022Z"
+  },
+  {
+    "id": 998,
+    "monitorId": 4,
+    "latency": 67.89,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:11.090Z"
+  },
+  {
+    "id": 999,
+    "monitorId": 5,
+    "latency": 75.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:11.166Z"
+  },
+  {
+    "id": 1000,
+    "monitorId": 1,
+    "latency": 56.19,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:12.234Z"
+  },
+  {
+    "id": 1001,
+    "monitorId": 2,
+    "latency": 45.03,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:15.287Z"
+  },
+  {
+    "id": 1002,
+    "monitorId": 3,
+    "latency": 43.61,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:15.331Z"
+  },
+  {
+    "id": 1003,
+    "monitorId": 4,
+    "latency": 47.59,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:15.379Z"
+  },
+  {
+    "id": 1004,
+    "monitorId": 5,
+    "latency": 50.64,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:15.431Z"
+  },
+  {
+    "id": 1005,
+    "monitorId": 1,
+    "latency": 47.95,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:16.492Z"
+  },
+  {
+    "id": 1006,
+    "monitorId": 2,
+    "latency": 65.54,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:19.570Z"
+  },
+  {
+    "id": 1007,
+    "monitorId": 3,
+    "latency": 63.48,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:19.634Z"
+  },
+  {
+    "id": 1008,
+    "monitorId": 4,
+    "latency": 68.23,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:19.702Z"
+  },
+  {
+    "id": 1009,
+    "monitorId": 5,
+    "latency": 71.32,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:19.774Z"
+  },
+  {
+    "id": 1010,
+    "monitorId": 1,
+    "latency": 1082.27,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:21.867Z"
+  },
+  {
+    "id": 1011,
+    "monitorId": 2,
+    "latency": 65.24,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:24.943Z"
+  },
+  {
+    "id": 1012,
+    "monitorId": 3,
+    "latency": 71.75,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:25.015Z"
+  },
+  {
+    "id": 1013,
+    "monitorId": 4,
+    "latency": 75.27,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:25.091Z"
+  },
+  {
+    "id": 1014,
+    "monitorId": 5,
+    "latency": 75.03,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:25.167Z"
+  },
+  {
+    "id": 1015,
+    "monitorId": 1,
+    "latency": 68.67,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:26.255Z"
+  },
+  {
+    "id": 1016,
+    "monitorId": 2,
+    "latency": 52.14,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:29.312Z"
+  },
+  {
+    "id": 1017,
+    "monitorId": 3,
+    "latency": 48.19,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:29.360Z"
+  },
+  {
+    "id": 1018,
+    "monitorId": 4,
+    "latency": 50.94,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:29.412Z"
+  },
+  {
+    "id": 1019,
+    "monitorId": 5,
+    "latency": 51.89,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:29.465Z"
+  },
+  {
+    "id": 1020,
+    "monitorId": 1,
+    "latency": 57.88,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:30.532Z"
+  },
+  {
+    "id": 1021,
+    "monitorId": 2,
+    "latency": 45.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:33.583Z"
+  },
+  {
+    "id": 1022,
+    "monitorId": 3,
+    "latency": 44.03,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:33.628Z"
+  },
+  {
+    "id": 1023,
+    "monitorId": 4,
+    "latency": 44.36,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:33.673Z"
+  },
+  {
+    "id": 1024,
+    "monitorId": 5,
+    "latency": 46.83,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:33.720Z"
+  },
+  {
+    "id": 1025,
+    "monitorId": 1,
+    "latency": 41.49,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:34.779Z"
+  },
+  {
+    "id": 1026,
+    "monitorId": 2,
+    "latency": 57.73,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:37.840Z"
+  },
+  {
+    "id": 1027,
+    "monitorId": 3,
+    "latency": 52.41,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:37.893Z"
+  },
+  {
+    "id": 1028,
+    "monitorId": 4,
+    "latency": 54.38,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:37.948Z"
+  },
+  {
+    "id": 1029,
+    "monitorId": 5,
+    "latency": 51.49,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:38.000Z"
+  },
+  {
+    "id": 1030,
+    "monitorId": 1,
+    "latency": 44.17,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:39.056Z"
+  },
+  {
+    "id": 1031,
+    "monitorId": 2,
+    "latency": 42.81,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:42.103Z"
+  },
+  {
+    "id": 1032,
+    "monitorId": 3,
+    "latency": 56.65,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:42.160Z"
+  },
+  {
+    "id": 1033,
+    "monitorId": 4,
+    "latency": 47.48,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:42.208Z"
+  },
+  {
+    "id": 1034,
+    "monitorId": 5,
+    "latency": 46.99,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:42.255Z"
+  },
+  {
+    "id": 1035,
+    "monitorId": 1,
+    "latency": 47.43,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:43.307Z"
+  },
+  {
+    "id": 1036,
+    "monitorId": 2,
+    "latency": 41.57,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:46.358Z"
+  },
+  {
+    "id": 1037,
+    "monitorId": 3,
+    "latency": 43.97,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:46.402Z"
+  },
+  {
+    "id": 1038,
+    "monitorId": 4,
+    "latency": 40.1,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:46.443Z"
+  },
+  {
+    "id": 1039,
+    "monitorId": 5,
+    "latency": 55.6,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:46.498Z"
+  },
+  {
+    "id": 1040,
+    "monitorId": 1,
+    "latency": 42.37,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:47.551Z"
+  },
+  {
+    "id": 1041,
+    "monitorId": 2,
+    "latency": 42.84,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:50.600Z"
+  },
+  {
+    "id": 1042,
+    "monitorId": 3,
+    "latency": 42.45,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:50.643Z"
+  },
+  {
+    "id": 1043,
+    "monitorId": 4,
+    "latency": 44.16,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:50.687Z"
+  },
+  {
+    "id": 1044,
+    "monitorId": 5,
+    "latency": 44.01,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:50.732Z"
+  },
+  {
+    "id": 1045,
+    "monitorId": 1,
+    "latency": 46.31,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:51.788Z"
+  },
+  {
+    "id": 1046,
+    "monitorId": 2,
+    "latency": 42.68,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:54.843Z"
+  },
+  {
+    "id": 1047,
+    "monitorId": 3,
+    "latency": 44.32,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:54.887Z"
+  },
+  {
+    "id": 1048,
+    "monitorId": 4,
+    "latency": 47.55,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:54.935Z"
+  },
+  {
+    "id": 1049,
+    "monitorId": 5,
+    "latency": 48.11,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:54.984Z"
+  },
+  {
+    "id": 1050,
+    "monitorId": 1,
+    "latency": 45.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:56.045Z"
+  },
+  {
+    "id": 1051,
+    "monitorId": 2,
+    "latency": 45.48,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:59.106Z"
+  },
+  {
+    "id": 1052,
+    "monitorId": 3,
+    "latency": 48.11,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:59.154Z"
+  },
+  {
+    "id": 1053,
+    "monitorId": 4,
+    "latency": 47.09,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:59.201Z"
+  },
+  {
+    "id": 1054,
+    "monitorId": 5,
+    "latency": 48.02,
+    "lost": false,
+    "timestamp": "2026-06-13T21:12:59.250Z"
+  },
+  {
+    "id": 1055,
+    "monitorId": 1,
+    "latency": 45.57,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:00.305Z"
+  },
+  {
+    "id": 1056,
+    "monitorId": 2,
+    "latency": 45.25,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:03.351Z"
+  },
+  {
+    "id": 1057,
+    "monitorId": 3,
+    "latency": 58.06,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:03.409Z"
+  },
+  {
+    "id": 1058,
+    "monitorId": 4,
+    "latency": 47.91,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:03.457Z"
+  },
+  {
+    "id": 1059,
+    "monitorId": 5,
+    "latency": 48.29,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:03.506Z"
+  },
+  {
+    "id": 1060,
+    "monitorId": 1,
+    "latency": 47.62,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:04.569Z"
+  },
+  {
+    "id": 1061,
+    "monitorId": 2,
+    "latency": 46.01,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:07.617Z"
+  },
+  {
+    "id": 1062,
+    "monitorId": 3,
+    "latency": 47.97,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:07.665Z"
+  },
+  {
+    "id": 1063,
+    "monitorId": 4,
+    "latency": 47.94,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:07.713Z"
+  },
+  {
+    "id": 1064,
+    "monitorId": 5,
+    "latency": 51.99,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:07.766Z"
+  },
+  {
+    "id": 1065,
+    "monitorId": 1,
+    "latency": 48.18,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:08.834Z"
+  },
+  {
+    "id": 1066,
+    "monitorId": 2,
+    "latency": 44.38,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:11.881Z"
+  },
+  {
+    "id": 1067,
+    "monitorId": 3,
+    "latency": 52.86,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:11.934Z"
+  },
+  {
+    "id": 1068,
+    "monitorId": 4,
+    "latency": 58.53,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:11.993Z"
+  },
+  {
+    "id": 1069,
+    "monitorId": 5,
+    "latency": 42.9,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:12.036Z"
+  },
+  {
+    "id": 1070,
+    "monitorId": 1,
+    "latency": 42.09,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:13.080Z"
+  },
+  {
+    "id": 1071,
+    "monitorId": 2,
+    "latency": 42.89,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:16.136Z"
+  },
+  {
+    "id": 1072,
+    "monitorId": 3,
+    "latency": 43.04,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:16.180Z"
+  },
+  {
+    "id": 1073,
+    "monitorId": 4,
+    "latency": 44.4,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:16.225Z"
+  },
+  {
+    "id": 1074,
+    "monitorId": 5,
+    "latency": 43.45,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:16.269Z"
+  },
+  {
+    "id": 1075,
+    "monitorId": 1,
+    "latency": 43.56,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:17.321Z"
+  },
+  {
+    "id": 1076,
+    "monitorId": 2,
+    "latency": 47.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:20.372Z"
+  },
+  {
+    "id": 1077,
+    "monitorId": 3,
+    "latency": 43.72,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:20.416Z"
+  },
+  {
+    "id": 1078,
+    "monitorId": 4,
+    "latency": 44.07,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:20.460Z"
+  },
+  {
+    "id": 1079,
+    "monitorId": 5,
+    "latency": 48.02,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:20.509Z"
+  },
+  {
+    "id": 1080,
+    "monitorId": 1,
+    "latency": 43.84,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:21.568Z"
+  },
+  {
+    "id": 1081,
+    "monitorId": 2,
+    "latency": 45.71,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:24.628Z"
+  },
+  {
+    "id": 1082,
+    "monitorId": 3,
+    "latency": 43.76,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:24.672Z"
+  },
+  {
+    "id": 1083,
+    "monitorId": 4,
+    "latency": 43.73,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:24.716Z"
+  },
+  {
+    "id": 1084,
+    "monitorId": 5,
+    "latency": 44.21,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:24.760Z"
+  },
+  {
+    "id": 1085,
+    "monitorId": 1,
+    "latency": 44.05,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:25.809Z"
+  },
+  {
+    "id": 1086,
+    "monitorId": 2,
+    "latency": 61.9,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:28.886Z"
+  },
+  {
+    "id": 1087,
+    "monitorId": 3,
+    "latency": 53.34,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:28.940Z"
+  },
+  {
+    "id": 1088,
+    "monitorId": 4,
+    "latency": 52.31,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:28.992Z"
+  },
+  {
+    "id": 1089,
+    "monitorId": 5,
+    "latency": 59.33,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:29.052Z"
+  },
+  {
+    "id": 1090,
+    "monitorId": 1,
+    "latency": 44.34,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:30.100Z"
+  },
+  {
+    "id": 1091,
+    "monitorId": 2,
+    "latency": 43.73,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:33.150Z"
+  },
+  {
+    "id": 1092,
+    "monitorId": 3,
+    "latency": 46.88,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:33.197Z"
+  },
+  {
+    "id": 1093,
+    "monitorId": 4,
+    "latency": 50.98,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:33.248Z"
+  },
+  {
+    "id": 1094,
+    "monitorId": 5,
+    "latency": 44.24,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:33.293Z"
+  },
+  {
+    "id": 1095,
+    "monitorId": 1,
+    "latency": 44.06,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:34.349Z"
+  },
+  {
+    "id": 1096,
+    "monitorId": 2,
+    "latency": 44.45,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:37.397Z"
+  },
+  {
+    "id": 1097,
+    "monitorId": 3,
+    "latency": 54.44,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:37.452Z"
+  },
+  {
+    "id": 1098,
+    "monitorId": 4,
+    "latency": 44.03,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:37.497Z"
+  },
+  {
+    "id": 1099,
+    "monitorId": 5,
+    "latency": 50.73,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:37.548Z"
+  },
+  {
+    "id": 1100,
+    "monitorId": 1,
+    "latency": 44.75,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:38.596Z"
+  },
+  {
+    "id": 1101,
+    "monitorId": 2,
+    "latency": 47.49,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:41.645Z"
+  },
+  {
+    "id": 1102,
+    "monitorId": 3,
+    "latency": 48.02,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:41.694Z"
+  },
+  {
+    "id": 1103,
+    "monitorId": 4,
+    "latency": 51.55,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:41.746Z"
+  },
+  {
+    "id": 1104,
+    "monitorId": 5,
+    "latency": 43.06,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:41.789Z"
+  },
+  {
+    "id": 1105,
+    "monitorId": 1,
+    "latency": 48.35,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:42.843Z"
+  },
+  {
+    "id": 1106,
+    "monitorId": 2,
+    "latency": 50.22,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:45.907Z"
+  },
+  {
+    "id": 1107,
+    "monitorId": 3,
+    "latency": 52.53,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:45.960Z"
+  },
+  {
+    "id": 1108,
+    "monitorId": 4,
+    "latency": 50.28,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:46.011Z"
+  },
+  {
+    "id": 1109,
+    "monitorId": 5,
+    "latency": 55.78,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:46.067Z"
+  },
+  {
+    "id": 1110,
+    "monitorId": 1,
+    "latency": 50.16,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:47.122Z"
+  },
+  {
+    "id": 1111,
+    "monitorId": 2,
+    "latency": 48.84,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:50.187Z"
+  },
+  {
+    "id": 1112,
+    "monitorId": 3,
+    "latency": 51.13,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:50.239Z"
+  },
+  {
+    "id": 1113,
+    "monitorId": 4,
+    "latency": 51.45,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:50.291Z"
+  },
+  {
+    "id": 1114,
+    "monitorId": 5,
+    "latency": 55.81,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:50.347Z"
+  },
+  {
+    "id": 1115,
+    "monitorId": 1,
+    "latency": 46.84,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:51.399Z"
+  },
+  {
+    "id": 1116,
+    "monitorId": 2,
+    "latency": 54.36,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:54.467Z"
+  },
+  {
+    "id": 1117,
+    "monitorId": 3,
+    "latency": 51.4,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:54.518Z"
+  },
+  {
+    "id": 1118,
+    "monitorId": 4,
+    "latency": 49.01,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:54.567Z"
+  },
+  {
+    "id": 1119,
+    "monitorId": 5,
+    "latency": 46.74,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:54.614Z"
+  },
+  {
+    "id": 1120,
+    "monitorId": 1,
+    "latency": 44.33,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:55.674Z"
+  },
+  {
+    "id": 1121,
+    "monitorId": 2,
+    "latency": 46.55,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:58.736Z"
+  },
+  {
+    "id": 1122,
+    "monitorId": 3,
+    "latency": 49.18,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:58.785Z"
+  },
+  {
+    "id": 1123,
+    "monitorId": 4,
+    "latency": 45.11,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:58.830Z"
+  },
+  {
+    "id": 1124,
+    "monitorId": 5,
+    "latency": 43.9,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:58.874Z"
+  },
+  {
+    "id": 1125,
+    "monitorId": 1,
+    "latency": 48.56,
+    "lost": false,
+    "timestamp": "2026-06-13T21:13:59.929Z"
+  },
+  {
+    "id": 1126,
+    "monitorId": 2,
+    "latency": 45.33,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:02.986Z"
+  },
+  {
+    "id": 1127,
+    "monitorId": 3,
+    "latency": 61.19,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:03.047Z"
+  },
+  {
+    "id": 1128,
+    "monitorId": 4,
+    "latency": 53,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:03.100Z"
+  },
+  {
+    "id": 1129,
+    "monitorId": 5,
+    "latency": 47.99,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:03.148Z"
+  },
+  {
+    "id": 1130,
+    "monitorId": 1,
+    "latency": 49.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:04.208Z"
+  },
+  {
+    "id": 1131,
+    "monitorId": 2,
+    "latency": 108.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:07.324Z"
+  },
+  {
+    "id": 1132,
+    "monitorId": 3,
+    "latency": 60.79,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:07.386Z"
+  },
+  {
+    "id": 1133,
+    "monitorId": 4,
+    "latency": 56.88,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:07.443Z"
+  },
+  {
+    "id": 1134,
+    "monitorId": 5,
+    "latency": 57.22,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:07.500Z"
+  },
+  {
+    "id": 1135,
+    "monitorId": 1,
+    "latency": 46.96,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:08.557Z"
+  },
+  {
+    "id": 1136,
+    "monitorId": 2,
+    "latency": 58.34,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:11.623Z"
+  },
+  {
+    "id": 1137,
+    "monitorId": 3,
+    "latency": 61.45,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:11.685Z"
+  },
+  {
+    "id": 1138,
+    "monitorId": 4,
+    "latency": 60.73,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:11.746Z"
+  },
+  {
+    "id": 1139,
+    "monitorId": 5,
+    "latency": 55.74,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:11.802Z"
+  },
+  {
+    "id": 1140,
+    "monitorId": 1,
+    "latency": 42.29,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:12.859Z"
+  },
+  {
+    "id": 1141,
+    "monitorId": 2,
+    "latency": 45.27,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:15.905Z"
+  },
+  {
+    "id": 1142,
+    "monitorId": 3,
+    "latency": 40.06,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:15.946Z"
+  },
+  {
+    "id": 1143,
+    "monitorId": 4,
+    "latency": 47.56,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:15.993Z"
+  },
+  {
+    "id": 1144,
+    "monitorId": 5,
+    "latency": 47.72,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:16.041Z"
+  },
+  {
+    "id": 1145,
+    "monitorId": 1,
+    "latency": 40.95,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:17.091Z"
+  },
+  {
+    "id": 1146,
+    "monitorId": 2,
+    "latency": 41.66,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:20.139Z"
+  },
+  {
+    "id": 1147,
+    "monitorId": 3,
+    "latency": 38.97,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:20.178Z"
+  },
+  {
+    "id": 1148,
+    "monitorId": 4,
+    "latency": 39.97,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:20.219Z"
+  },
+  {
+    "id": 1149,
+    "monitorId": 5,
+    "latency": 34.88,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:20.254Z"
+  },
+  {
+    "id": 1150,
+    "monitorId": 1,
+    "latency": 37.78,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:21.294Z"
+  },
+  {
+    "id": 1151,
+    "monitorId": 2,
+    "latency": 38.88,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:24.339Z"
+  },
+  {
+    "id": 1152,
+    "monitorId": 3,
+    "latency": 47.08,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:24.386Z"
+  },
+  {
+    "id": 1153,
+    "monitorId": 4,
+    "latency": 39.65,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:24.425Z"
+  },
+  {
+    "id": 1154,
+    "monitorId": 5,
+    "latency": 40,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:24.466Z"
+  },
+  {
+    "id": 1155,
+    "monitorId": 1,
+    "latency": 35.85,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:25.509Z"
+  },
+  {
+    "id": 1156,
+    "monitorId": 2,
+    "latency": 47.07,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:28.569Z"
+  },
+  {
+    "id": 1157,
+    "monitorId": 3,
+    "latency": 43.25,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:28.612Z"
+  },
+  {
+    "id": 1158,
+    "monitorId": 4,
+    "latency": 35.63,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:28.648Z"
+  },
+  {
+    "id": 1159,
+    "monitorId": 5,
+    "latency": 40.09,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:28.688Z"
+  },
+  {
+    "id": 1160,
+    "monitorId": 1,
+    "latency": 49.92,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:29.741Z"
+  },
+  {
+    "id": 1161,
+    "monitorId": 2,
+    "latency": 38.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:32.793Z"
+  },
+  {
+    "id": 1162,
+    "monitorId": 3,
+    "latency": 40.72,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:32.834Z"
+  },
+  {
+    "id": 1163,
+    "monitorId": 4,
+    "latency": 42.56,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:32.878Z"
+  },
+  {
+    "id": 1164,
+    "monitorId": 5,
+    "latency": 38.64,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:32.917Z"
+  },
+  {
+    "id": 1165,
+    "monitorId": 1,
+    "latency": 39.32,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:33.964Z"
+  },
+  {
+    "id": 1166,
+    "monitorId": 2,
+    "latency": 42.4,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:37.020Z"
+  },
+  {
+    "id": 1167,
+    "monitorId": 3,
+    "latency": 40.17,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:37.060Z"
+  },
+  {
+    "id": 1168,
+    "monitorId": 4,
+    "latency": 36.73,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:37.097Z"
+  },
+  {
+    "id": 1169,
+    "monitorId": 5,
+    "latency": 39.91,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:37.137Z"
+  },
+  {
+    "id": 1170,
+    "monitorId": 1,
+    "latency": 36.39,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:38.188Z"
+  },
+  {
+    "id": 1171,
+    "monitorId": 2,
+    "latency": 37.45,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:41.229Z"
+  },
+  {
+    "id": 1172,
+    "monitorId": 3,
+    "latency": 36.65,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:41.266Z"
+  },
+  {
+    "id": 1173,
+    "monitorId": 4,
+    "latency": 38.68,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:41.305Z"
+  },
+  {
+    "id": 1174,
+    "monitorId": 5,
+    "latency": 40.65,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:41.346Z"
+  },
+  {
+    "id": 1175,
+    "monitorId": 1,
+    "latency": 70.69,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:42.432Z"
+  },
+  {
+    "id": 1176,
+    "monitorId": 2,
+    "latency": 64.43,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:45.501Z"
+  },
+  {
+    "id": 1177,
+    "monitorId": 3,
+    "latency": 73.56,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:45.574Z"
+  },
+  {
+    "id": 1178,
+    "monitorId": 4,
+    "latency": 64.78,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:45.639Z"
+  },
+  {
+    "id": 1179,
+    "monitorId": 5,
+    "latency": 67.39,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:45.707Z"
+  },
+  {
+    "id": 1180,
+    "monitorId": 1,
+    "latency": 67.65,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:46.779Z"
+  },
+  {
+    "id": 1181,
+    "monitorId": 2,
+    "latency": 65.61,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:49.859Z"
+  },
+  {
+    "id": 1182,
+    "monitorId": 3,
+    "latency": 62.9,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:49.923Z"
+  },
+  {
+    "id": 1183,
+    "monitorId": 4,
+    "latency": 64.61,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:49.988Z"
+  },
+  {
+    "id": 1184,
+    "monitorId": 5,
+    "latency": 70.56,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:50.058Z"
+  },
+  {
+    "id": 1185,
+    "monitorId": 1,
+    "latency": 61.98,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:51.130Z"
+  },
+  {
+    "id": 1186,
+    "monitorId": 2,
+    "latency": 67.21,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:54.202Z"
+  },
+  {
+    "id": 1187,
+    "monitorId": 3,
+    "latency": 65.3,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:54.268Z"
+  },
+  {
+    "id": 1188,
+    "monitorId": 4,
+    "latency": 74.23,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:54.343Z"
+  },
+  {
+    "id": 1189,
+    "monitorId": 5,
+    "latency": 63.71,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:54.407Z"
+  },
+  {
+    "id": 1190,
+    "monitorId": 1,
+    "latency": 66.72,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:55.479Z"
+  },
+  {
+    "id": 1191,
+    "monitorId": 2,
+    "latency": 37.18,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:58.529Z"
+  },
+  {
+    "id": 1192,
+    "monitorId": 3,
+    "latency": 41.97,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:58.571Z"
+  },
+  {
+    "id": 1193,
+    "monitorId": 4,
+    "latency": 35.91,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:58.607Z"
+  },
+  {
+    "id": 1194,
+    "monitorId": 5,
+    "latency": 40.41,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:58.648Z"
+  },
+  {
+    "id": 1195,
+    "monitorId": 1,
+    "latency": 40.21,
+    "lost": false,
+    "timestamp": "2026-06-13T21:14:59.701Z"
+  },
+  {
+    "id": 1196,
+    "monitorId": 2,
+    "latency": 41.09,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:02.748Z"
+  },
+  {
+    "id": 1197,
+    "monitorId": 3,
+    "latency": 47.06,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:02.795Z"
+  },
+  {
+    "id": 1198,
+    "monitorId": 4,
+    "latency": 35.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:02.831Z"
+  },
+  {
+    "id": 1199,
+    "monitorId": 5,
+    "latency": 45.37,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:02.877Z"
+  },
+  {
+    "id": 1200,
+    "monitorId": 1,
+    "latency": 38.65,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:03.928Z"
+  },
+  {
+    "id": 1201,
+    "monitorId": 2,
+    "latency": 35.77,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:06.972Z"
+  },
+  {
+    "id": 1202,
+    "monitorId": 3,
+    "latency": 35.26,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:07.007Z"
+  },
+  {
+    "id": 1203,
+    "monitorId": 4,
+    "latency": 40.46,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:07.048Z"
+  },
+  {
+    "id": 1204,
+    "monitorId": 5,
+    "latency": 39.72,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:07.089Z"
+  },
+  {
+    "id": 1205,
+    "monitorId": 1,
+    "latency": 34.45,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:08.139Z"
+  },
+  {
+    "id": 1206,
+    "monitorId": 2,
+    "latency": 36.73,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:11.184Z"
+  },
+  {
+    "id": 1207,
+    "monitorId": 3,
+    "latency": 34.72,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:11.219Z"
+  },
+  {
+    "id": 1208,
+    "monitorId": 4,
+    "latency": 39.98,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:11.260Z"
+  },
+  {
+    "id": 1209,
+    "monitorId": 5,
+    "latency": 38.98,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:11.299Z"
+  },
+  {
+    "id": 1210,
+    "monitorId": 1,
+    "latency": 42.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:12.345Z"
+  },
+  {
+    "id": 1211,
+    "monitorId": 2,
+    "latency": 40.87,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:15.393Z"
+  },
+  {
+    "id": 1212,
+    "monitorId": 3,
+    "latency": 39.46,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:15.433Z"
+  },
+  {
+    "id": 1213,
+    "monitorId": 4,
+    "latency": 43.74,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:15.477Z"
+  },
+  {
+    "id": 1214,
+    "monitorId": 5,
+    "latency": 34.98,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:15.513Z"
+  },
+  {
+    "id": 1215,
+    "monitorId": 1,
+    "latency": 44.07,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:16.564Z"
+  },
+  {
+    "id": 1216,
+    "monitorId": 2,
+    "latency": 36.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:19.601Z"
+  },
+  {
+    "id": 1217,
+    "monitorId": 3,
+    "latency": 35.69,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:19.637Z"
+  },
+  {
+    "id": 1218,
+    "monitorId": 4,
+    "latency": 40.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:19.678Z"
+  },
+  {
+    "id": 1219,
+    "monitorId": 5,
+    "latency": 43.03,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:19.721Z"
+  },
+  {
+    "id": 1220,
+    "monitorId": 1,
+    "latency": 38.29,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:20.772Z"
+  },
+  {
+    "id": 1221,
+    "monitorId": 2,
+    "latency": 44.26,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:23.829Z"
+  },
+  {
+    "id": 1222,
+    "monitorId": 3,
+    "latency": 39,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:23.868Z"
+  },
+  {
+    "id": 1223,
+    "monitorId": 4,
+    "latency": 36.17,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:23.904Z"
+  },
+  {
+    "id": 1224,
+    "monitorId": 5,
+    "latency": 39.69,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:23.944Z"
+  },
+  {
+    "id": 1225,
+    "monitorId": 1,
+    "latency": 36.61,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:24.993Z"
+  },
+  {
+    "id": 1226,
+    "monitorId": 2,
+    "latency": 49.65,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:28.052Z"
+  },
+  {
+    "id": 1227,
+    "monitorId": 3,
+    "latency": 58.14,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:28.110Z"
+  },
+  {
+    "id": 1228,
+    "monitorId": 4,
+    "latency": 58.16,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:28.169Z"
+  },
+  {
+    "id": 1229,
+    "monitorId": 5,
+    "latency": 57.69,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:28.227Z"
+  },
+  {
+    "id": 1230,
+    "monitorId": 1,
+    "latency": 45.81,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:29.279Z"
+  },
+  {
+    "id": 1231,
+    "monitorId": 2,
+    "latency": 45.19,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:32.339Z"
+  },
+  {
+    "id": 1232,
+    "monitorId": 3,
+    "latency": 47.83,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:32.388Z"
+  },
+  {
+    "id": 1233,
+    "monitorId": 4,
+    "latency": 47.05,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:32.435Z"
+  },
+  {
+    "id": 1234,
+    "monitorId": 5,
+    "latency": 48,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:32.483Z"
+  },
+  {
+    "id": 1235,
+    "monitorId": 1,
+    "latency": 44.7,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:33.539Z"
+  },
+  {
+    "id": 1236,
+    "monitorId": 2,
+    "latency": 61.39,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:36.616Z"
+  },
+  {
+    "id": 1237,
+    "monitorId": 3,
+    "latency": 58.76,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:36.676Z"
+  },
+  {
+    "id": 1238,
+    "monitorId": 4,
+    "latency": 52.56,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:36.728Z"
+  },
+  {
+    "id": 1239,
+    "monitorId": 5,
+    "latency": 48.67,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:36.778Z"
+  },
+  {
+    "id": 1240,
+    "monitorId": 1,
+    "latency": 46.22,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:37.832Z"
+  },
+  {
+    "id": 1241,
+    "monitorId": 2,
+    "latency": 47.5,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:40.889Z"
+  },
+  {
+    "id": 1242,
+    "monitorId": 3,
+    "latency": 47.29,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:40.936Z"
+  },
+  {
+    "id": 1243,
+    "monitorId": 4,
+    "latency": 47.81,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:40.984Z"
+  },
+  {
+    "id": 1244,
+    "monitorId": 5,
+    "latency": 43.1,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:41.027Z"
+  },
+  {
+    "id": 1245,
+    "monitorId": 1,
+    "latency": 60.31,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:42.091Z"
+  },
+  {
+    "id": 1246,
+    "monitorId": 2,
+    "latency": 56.87,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:45.156Z"
+  },
+  {
+    "id": 1247,
+    "monitorId": 3,
+    "latency": 59.97,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:45.216Z"
+  },
+  {
+    "id": 1248,
+    "monitorId": 4,
+    "latency": 59.6,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:45.275Z"
+  },
+  {
+    "id": 1249,
+    "monitorId": 5,
+    "latency": 59.99,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:45.336Z"
+  },
+  {
+    "id": 1250,
+    "monitorId": 1,
+    "latency": 57.86,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:46.404Z"
+  },
+  {
+    "id": 1251,
+    "monitorId": 2,
+    "latency": 58.15,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:49.472Z"
+  },
+  {
+    "id": 1252,
+    "monitorId": 3,
+    "latency": 59.96,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:49.533Z"
+  },
+  {
+    "id": 1253,
+    "monitorId": 4,
+    "latency": 58.7,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:49.591Z"
+  },
+  {
+    "id": 1254,
+    "monitorId": 5,
+    "latency": 59.87,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:49.651Z"
+  },
+  {
+    "id": 1255,
+    "monitorId": 1,
+    "latency": 59.97,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:50.724Z"
+  },
+  {
+    "id": 1256,
+    "monitorId": 2,
+    "latency": 57.83,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:53.788Z"
+  },
+  {
+    "id": 1257,
+    "monitorId": 3,
+    "latency": 59.63,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:53.847Z"
+  },
+  {
+    "id": 1258,
+    "monitorId": 4,
+    "latency": 59.85,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:53.907Z"
+  },
+  {
+    "id": 1259,
+    "monitorId": 5,
+    "latency": 57.16,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:53.965Z"
+  },
+  {
+    "id": 1260,
+    "monitorId": 1,
+    "latency": 57.42,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:55.036Z"
+  },
+  {
+    "id": 1261,
+    "monitorId": 2,
+    "latency": 44.77,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:58.084Z"
+  },
+  {
+    "id": 1262,
+    "monitorId": 3,
+    "latency": 60.73,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:58.145Z"
+  },
+  {
+    "id": 1263,
+    "monitorId": 4,
+    "latency": 119.14,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:58.264Z"
+  },
+  {
+    "id": 1264,
+    "monitorId": 5,
+    "latency": 56.17,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:58.320Z"
+  },
+  {
+    "id": 1265,
+    "monitorId": 1,
+    "latency": 62.37,
+    "lost": false,
+    "timestamp": "2026-06-13T21:15:59.396Z"
+  },
+  {
+    "id": 1266,
+    "monitorId": 2,
+    "latency": 48.76,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:02.448Z"
+  },
+  {
+    "id": 1267,
+    "monitorId": 3,
+    "latency": 107.22,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:02.556Z"
+  },
+  {
+    "id": 1268,
+    "monitorId": 4,
+    "latency": 55.44,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:02.612Z"
+  },
+  {
+    "id": 1269,
+    "monitorId": 5,
+    "latency": 51.76,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:02.664Z"
+  },
+  {
+    "id": 1270,
+    "monitorId": 1,
+    "latency": 60.44,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:03.737Z"
+  },
+  {
+    "id": 1271,
+    "monitorId": 2,
+    "latency": 48.33,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:06.792Z"
+  },
+  {
+    "id": 1272,
+    "monitorId": 3,
+    "latency": 51.56,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:06.844Z"
+  },
+  {
+    "id": 1273,
+    "monitorId": 4,
+    "latency": 56.27,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:06.900Z"
+  },
+  {
+    "id": 1274,
+    "monitorId": 5,
+    "latency": 47.66,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:06.948Z"
+  },
+  {
+    "id": 1275,
+    "monitorId": 1,
+    "latency": 46.62,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:08.008Z"
+  },
+  {
+    "id": 1276,
+    "monitorId": 2,
+    "latency": 45.97,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:11.068Z"
+  },
+  {
+    "id": 1277,
+    "monitorId": 3,
+    "latency": 48.75,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:11.117Z"
+  },
+  {
+    "id": 1278,
+    "monitorId": 4,
+    "latency": 47.18,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:11.164Z"
+  },
+  {
+    "id": 1279,
+    "monitorId": 5,
+    "latency": 47.61,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:11.212Z"
+  },
+  {
+    "id": 1280,
+    "monitorId": 1,
+    "latency": 42.93,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:12.265Z"
+  },
+  {
+    "id": 1281,
+    "monitorId": 2,
+    "latency": 40.91,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:15.318Z"
+  },
+  {
+    "id": 1282,
+    "monitorId": 3,
+    "latency": 43.96,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:15.362Z"
+  },
+  {
+    "id": 1283,
+    "monitorId": 4,
+    "latency": 44.21,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:15.406Z"
+  },
+  {
+    "id": 1284,
+    "monitorId": 5,
+    "latency": 87.19,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:15.494Z"
+  },
+  {
+    "id": 1285,
+    "monitorId": 1,
+    "latency": 43.43,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:16.553Z"
+  },
+  {
+    "id": 1286,
+    "monitorId": 2,
+    "latency": 40.83,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:19.602Z"
+  },
+  {
+    "id": 1287,
+    "monitorId": 3,
+    "latency": 42.93,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:19.645Z"
+  },
+  {
+    "id": 1288,
+    "monitorId": 4,
+    "latency": 49.5,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:19.695Z"
+  },
+  {
+    "id": 1289,
+    "monitorId": 5,
+    "latency": 50.13,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:19.746Z"
+  },
+  {
+    "id": 1290,
+    "monitorId": 1,
+    "latency": 53.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:20.814Z"
+  },
+  {
+    "id": 1291,
+    "monitorId": 2,
+    "latency": 41.89,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:23.867Z"
+  },
+  {
+    "id": 1292,
+    "monitorId": 3,
+    "latency": 54.73,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:23.922Z"
+  },
+  {
+    "id": 1293,
+    "monitorId": 4,
+    "latency": 51.05,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:23.973Z"
+  },
+  {
+    "id": 1294,
+    "monitorId": 5,
+    "latency": 52.95,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:24.026Z"
+  },
+  {
+    "id": 1295,
+    "monitorId": 1,
+    "latency": 55.35,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:25.094Z"
+  },
+  {
+    "id": 1296,
+    "monitorId": 2,
+    "latency": 42.17,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:28.137Z"
+  },
+  {
+    "id": 1297,
+    "monitorId": 3,
+    "latency": 43.69,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:28.182Z"
+  },
+  {
+    "id": 1298,
+    "monitorId": 4,
+    "latency": 43.88,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:28.226Z"
+  },
+  {
+    "id": 1299,
+    "monitorId": 5,
+    "latency": 47.72,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:28.274Z"
+  },
+  {
+    "id": 1300,
+    "monitorId": 1,
+    "latency": 42.91,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:29.326Z"
+  },
+  {
+    "id": 1301,
+    "monitorId": 2,
+    "latency": 43.1,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:32.374Z"
+  },
+  {
+    "id": 1302,
+    "monitorId": 3,
+    "latency": 43.54,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:32.417Z"
+  },
+  {
+    "id": 1303,
+    "monitorId": 4,
+    "latency": 51.97,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:32.470Z"
+  },
+  {
+    "id": 1304,
+    "monitorId": 5,
+    "latency": 47.2,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:32.517Z"
+  },
+  {
+    "id": 1305,
+    "monitorId": 1,
+    "latency": 40.74,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:33.573Z"
+  },
+  {
+    "id": 1306,
+    "monitorId": 2,
+    "latency": 52.42,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:36.633Z"
+  },
+  {
+    "id": 1307,
+    "monitorId": 3,
+    "latency": 52.47,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:36.686Z"
+  },
+  {
+    "id": 1308,
+    "monitorId": 4,
+    "latency": 55.13,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:36.742Z"
+  },
+  {
+    "id": 1309,
+    "monitorId": 5,
+    "latency": 51.38,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:36.794Z"
+  },
+  {
+    "id": 1310,
+    "monitorId": 1,
+    "latency": 43.46,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:37.855Z"
+  },
+  {
+    "id": 1311,
+    "monitorId": 2,
+    "latency": 41.81,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:40.901Z"
+  },
+  {
+    "id": 1312,
+    "monitorId": 3,
+    "latency": 55.29,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:40.957Z"
+  },
+  {
+    "id": 1313,
+    "monitorId": 4,
+    "latency": 44.26,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:41.001Z"
+  },
+  {
+    "id": 1314,
+    "monitorId": 5,
+    "latency": 43.37,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:41.045Z"
+  },
+  {
+    "id": 1315,
+    "monitorId": 1,
+    "latency": 48.3,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:42.106Z"
+  },
+  {
+    "id": 1316,
+    "monitorId": 2,
+    "latency": 48.67,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:45.170Z"
+  },
+  {
+    "id": 1317,
+    "monitorId": 3,
+    "latency": 47.38,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:45.218Z"
+  },
+  {
+    "id": 1318,
+    "monitorId": 4,
+    "latency": 48.66,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:45.266Z"
+  },
+  {
+    "id": 1319,
+    "monitorId": 5,
+    "latency": 51.3,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:45.318Z"
+  },
+  {
+    "id": 1320,
+    "monitorId": 1,
+    "latency": 50.57,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:46.370Z"
+  },
+  {
+    "id": 1321,
+    "monitorId": 2,
+    "latency": 49.5,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:49.430Z"
+  },
+  {
+    "id": 1322,
+    "monitorId": 3,
+    "latency": 47.12,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:49.478Z"
+  },
+  {
+    "id": 1323,
+    "monitorId": 4,
+    "latency": 56.33,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:49.535Z"
+  },
+  {
+    "id": 1324,
+    "monitorId": 5,
+    "latency": 55.84,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:49.591Z"
+  },
+  {
+    "id": 1325,
+    "monitorId": 1,
+    "latency": 44.58,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:50.641Z"
+  },
+  {
+    "id": 1326,
+    "monitorId": 2,
+    "latency": 51.23,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:53.698Z"
+  },
+  {
+    "id": 1327,
+    "monitorId": 3,
+    "latency": 48.18,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:53.746Z"
+  },
+  {
+    "id": 1328,
+    "monitorId": 4,
+    "latency": 47.77,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:53.794Z"
+  },
+  {
+    "id": 1329,
+    "monitorId": 5,
+    "latency": 47.43,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:53.842Z"
+  },
+  {
+    "id": 1330,
+    "monitorId": 1,
+    "latency": 54.5,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:54.901Z"
+  },
+  {
+    "id": 1331,
+    "monitorId": 2,
+    "latency": 51.98,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:57.958Z"
+  },
+  {
+    "id": 1332,
+    "monitorId": 3,
+    "latency": 63.15,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:58.022Z"
+  },
+  {
+    "id": 1333,
+    "monitorId": 4,
+    "latency": 55.07,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:58.077Z"
+  },
+  {
+    "id": 1334,
+    "monitorId": 5,
+    "latency": 51.67,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:58.129Z"
+  },
+  {
+    "id": 1335,
+    "monitorId": 1,
+    "latency": 50.54,
+    "lost": false,
+    "timestamp": "2026-06-13T21:16:59.186Z"
+  },
+  {
+    "id": 1336,
+    "monitorId": 2,
+    "latency": 49.81,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:02.245Z"
+  },
+  {
+    "id": 1337,
+    "monitorId": 3,
+    "latency": 55.35,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:02.301Z"
+  },
+  {
+    "id": 1338,
+    "monitorId": 4,
+    "latency": 55.44,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:02.356Z"
+  },
+  {
+    "id": 1339,
+    "monitorId": 5,
+    "latency": 52.26,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:02.409Z"
+  },
+  {
+    "id": 1340,
+    "monitorId": 1,
+    "latency": 55.46,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:03.481Z"
+  },
+  {
+    "id": 1341,
+    "monitorId": 2,
+    "latency": 125.34,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:06.617Z"
+  },
+  {
+    "id": 1342,
+    "monitorId": 3,
+    "latency": 51.34,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:06.668Z"
+  },
+  {
+    "id": 1343,
+    "monitorId": 4,
+    "latency": 52.4,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:06.721Z"
+  },
+  {
+    "id": 1344,
+    "monitorId": 5,
+    "latency": 55.64,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:06.777Z"
+  },
+  {
+    "id": 1345,
+    "monitorId": 1,
+    "latency": 52.24,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:07.849Z"
+  },
+  {
+    "id": 1346,
+    "monitorId": 2,
+    "latency": 53.24,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:10.906Z"
+  },
+  {
+    "id": 1347,
+    "monitorId": 3,
+    "latency": 55.6,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:10.963Z"
+  },
+  {
+    "id": 1348,
+    "monitorId": 4,
+    "latency": 50.49,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:11.014Z"
+  },
+  {
+    "id": 1349,
+    "monitorId": 5,
+    "latency": 51.12,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:11.066Z"
+  },
+  {
+    "id": 1350,
+    "monitorId": 1,
+    "latency": 51.65,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:12.134Z"
+  },
+  {
+    "id": 1351,
+    "monitorId": 2,
+    "latency": 55.53,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:15.198Z"
+  },
+  {
+    "id": 1352,
+    "monitorId": 3,
+    "latency": 64.17,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:15.263Z"
+  },
+  {
+    "id": 1353,
+    "monitorId": 4,
+    "latency": 55.38,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:15.318Z"
+  },
+  {
+    "id": 1354,
+    "monitorId": 5,
+    "latency": 47.08,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:15.366Z"
+  },
+  {
+    "id": 1355,
+    "monitorId": 1,
+    "latency": 56.27,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:16.430Z"
+  },
+  {
+    "id": 1356,
+    "monitorId": 2,
+    "latency": 55.77,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:19.494Z"
+  },
+  {
+    "id": 1357,
+    "monitorId": 3,
+    "latency": 47.62,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:19.542Z"
+  },
+  {
+    "id": 1358,
+    "monitorId": 4,
+    "latency": 50.53,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:19.593Z"
+  },
+  {
+    "id": 1359,
+    "monitorId": 5,
+    "latency": 52.93,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:19.646Z"
+  },
+  {
+    "id": 1360,
+    "monitorId": 1,
+    "latency": 57.07,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:20.710Z"
+  },
+  {
+    "id": 1361,
+    "monitorId": 2,
+    "latency": 42.67,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:23.758Z"
+  },
+  {
+    "id": 1362,
+    "monitorId": 3,
+    "latency": 51.91,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:23.810Z"
+  },
+  {
+    "id": 1363,
+    "monitorId": 4,
+    "latency": 43.33,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:23.853Z"
+  },
+  {
+    "id": 1364,
+    "monitorId": 5,
+    "latency": 43.74,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:23.898Z"
+  },
+  {
+    "id": 1365,
+    "monitorId": 1,
+    "latency": 43.31,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:24.958Z"
+  },
+  {
+    "id": 1366,
+    "monitorId": 2,
+    "latency": 53.93,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:28.014Z"
+  },
+  {
+    "id": 1367,
+    "monitorId": 3,
+    "latency": 55.87,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:28.070Z"
+  },
+  {
+    "id": 1368,
+    "monitorId": 4,
+    "latency": 51.77,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:28.123Z"
+  },
+  {
+    "id": 1369,
+    "monitorId": 5,
+    "latency": 55.57,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:28.179Z"
+  },
+  {
+    "id": 1370,
+    "monitorId": 1,
+    "latency": 46.88,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:29.235Z"
+  },
+  {
+    "id": 1371,
+    "monitorId": 2,
+    "latency": 42.87,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:32.294Z"
+  },
+  {
+    "id": 1372,
+    "monitorId": 3,
+    "latency": 44.17,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:32.338Z"
+  },
+  {
+    "id": 1373,
+    "monitorId": 4,
+    "latency": 42.96,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:32.382Z"
+  },
+  {
+    "id": 1374,
+    "monitorId": 5,
+    "latency": 42.94,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:32.425Z"
+  },
+  {
+    "id": 1375,
+    "monitorId": 1,
+    "latency": 43.55,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:33.479Z"
+  },
+  {
+    "id": 1376,
+    "monitorId": 2,
+    "latency": 40.5,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:36.525Z"
+  },
+  {
+    "id": 1377,
+    "monitorId": 3,
+    "latency": 43.59,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:36.569Z"
+  },
+  {
+    "id": 1378,
+    "monitorId": 4,
+    "latency": 45.01,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:36.614Z"
+  },
+  {
+    "id": 1379,
+    "monitorId": 5,
+    "latency": 43.45,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:36.658Z"
+  },
+  {
+    "id": 1380,
+    "monitorId": 1,
+    "latency": 42.1,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:37.710Z"
+  },
+  {
+    "id": 1381,
+    "monitorId": 2,
+    "latency": 48.2,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:40.774Z"
+  },
+  {
+    "id": 1382,
+    "monitorId": 3,
+    "latency": 43.54,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:40.817Z"
+  },
+  {
+    "id": 1383,
+    "monitorId": 4,
+    "latency": 44.35,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:40.862Z"
+  },
+  {
+    "id": 1384,
+    "monitorId": 5,
+    "latency": 43.55,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:40.906Z"
+  },
+  {
+    "id": 1385,
+    "monitorId": 1,
+    "latency": 73.97,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:41.983Z"
+  },
+  {
+    "id": 1386,
+    "monitorId": 2,
+    "latency": 37.95,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:45.023Z"
+  },
+  {
+    "id": 1387,
+    "monitorId": 3,
+    "latency": 51.62,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:45.075Z"
+  },
+  {
+    "id": 1388,
+    "monitorId": 4,
+    "latency": 47.42,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:45.123Z"
+  },
+  {
+    "id": 1389,
+    "monitorId": 5,
+    "latency": 43.1,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:45.166Z"
+  },
+  {
+    "id": 1390,
+    "monitorId": 1,
+    "latency": 41.23,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:46.210Z"
+  },
+  {
+    "id": 1391,
+    "monitorId": 2,
+    "latency": 40.36,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:49.254Z"
+  },
+  {
+    "id": 1392,
+    "monitorId": 3,
+    "latency": 39.05,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:49.293Z"
+  },
+  {
+    "id": 1393,
+    "monitorId": 4,
+    "latency": 41.08,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:49.335Z"
+  },
+  {
+    "id": 1394,
+    "monitorId": 5,
+    "latency": 43.23,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:49.379Z"
+  },
+  {
+    "id": 1395,
+    "monitorId": 1,
+    "latency": 39.39,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:50.423Z"
+  },
+  {
+    "id": 1396,
+    "monitorId": 2,
+    "latency": 38.4,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:53.467Z"
+  },
+  {
+    "id": 1397,
+    "monitorId": 3,
+    "latency": 38.74,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:53.506Z"
+  },
+  {
+    "id": 1398,
+    "monitorId": 4,
+    "latency": 47.85,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:53.554Z"
+  },
+  {
+    "id": 1399,
+    "monitorId": 5,
+    "latency": 43.63,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:53.598Z"
+  },
+  {
+    "id": 1400,
+    "monitorId": 1,
+    "latency": 40.84,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:54.654Z"
+  },
+  {
+    "id": 1401,
+    "monitorId": 2,
+    "latency": 45.39,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:57.706Z"
+  },
+  {
+    "id": 1402,
+    "monitorId": 3,
+    "latency": 47.67,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:57.754Z"
+  },
+  {
+    "id": 1403,
+    "monitorId": 4,
+    "latency": 47.45,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:57.802Z"
+  },
+  {
+    "id": 1404,
+    "monitorId": 5,
+    "latency": 51.12,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:57.853Z"
+  },
+  {
+    "id": 1405,
+    "monitorId": 1,
+    "latency": 46.2,
+    "lost": false,
+    "timestamp": "2026-06-13T21:17:58.907Z"
+  },
+  {
+    "id": 1406,
+    "monitorId": 2,
+    "latency": 53.38,
+    "lost": false,
+    "timestamp": "2026-06-13T21:18:01.962Z"
+  },
+  {
+    "id": 1407,
+    "monitorId": 3,
+    "latency": 55.52,
+    "lost": false,
+    "timestamp": "2026-06-13T21:18:02.018Z"
+  },
+  {
+    "id": 1408,
+    "monitorId": 4,
+    "latency": 47.09,
+    "lost": false,
+    "timestamp": "2026-06-13T21:18:02.065Z"
+  },
+  {
+    "id": 1409,
+    "monitorId": 5,
+    "latency": 48.37,
+    "lost": false,
+    "timestamp": "2026-06-13T21:18:02.114Z"
+  }
+]

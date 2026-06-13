@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "hostname": "1.1.1.1",
+    "label": "Cloudflare DNS",
+    "enabled": true,
+    "order_index": 0
+  },
+  {
+    "id": 2,
+    "hostname": "8.8.8.8",
+    "label": "Google DNS",
+    "enabled": true,
+    "order_index": 2
+  },
+  {
+    "id": 3,
+    "hostname": "google.com",
+    "label": "Google",
+    "enabled": true,
+    "order_index": 3
+  },
+  {
+    "id": 4,
+    "hostname": "cloudflare.com",
+    "label": "Cloudflare",
+    "enabled": true,
+    "order_index": 1
+  },
+  {
+    "id": 5,
+    "hostname": "youtube.com",
+    "label": "youtube.com",
+    "enabled": true,
+    "order_index": 4
+  }
+]
