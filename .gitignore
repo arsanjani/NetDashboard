@@ -9,3 +9,4 @@ tmp/
 *.tsbuildinfo
 .vscode/
 .idea/
+data/samples.json
