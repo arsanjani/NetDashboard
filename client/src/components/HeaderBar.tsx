@@ -2,10 +2,11 @@ import { useState, useEffect } from 'react';
 
 interface Props {
   globalAvgPing: number;
+  globalPacketLoss: number;
   connected: boolean;
 }
 
-export function HeaderBar({ globalAvgPing, connected }: Props) {
+export function HeaderBar({ globalAvgPing, globalPacketLoss, connected }: Props) {
   const [publicIp, setPublicIp] = useState('...');
   const [localIp, setLocalIp] = useState('...');
 
@@ -19,8 +20,9 @@ export function HeaderBar({ globalAvgPing, connected }: Props) {
       .catch(() => {});
   }, []);
 
-  const pingColor = globalAvgPing <= 50 ? '#22c55e' : globalAvgPing <= 60 ? '#eab308' : '#ef4444';
-  const pingLabel = globalAvgPing <= 50 ? 'Healthy' : globalAvgPing <= 60 ? 'Degraded' : 'Critical';
+  const statusColor = (globalAvgPing > 100 || globalPacketLoss > 5) ? 'red' : (globalAvgPing > 50 || globalPacketLoss > 1) ? 'yellow' : 'green';
+  const pingColor = statusColor === 'green' ? '#22c55e' : statusColor === 'yellow' ? '#eab308' : '#ef4444';
+  const pingLabel = statusColor === 'green' ? 'Healthy' : statusColor === 'yellow' ? 'Degraded' : 'Critical';
 
   return (
     <div className="flex items-center gap-4 border-b border-white/[0.06] px-5 py-4">

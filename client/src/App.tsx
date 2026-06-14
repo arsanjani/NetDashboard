@@ -29,9 +29,8 @@ export default function App() {
     send({ type: 'reorder_monitors', order });
   };
 
-  const globalAvgPing = metrics.length
-    ? metrics.reduce((s, m) => s + (m.avgPing ?? 0), 0) / metrics.length
-    : 0;
+  const globalAvgPing = metrics.length ? metrics.reduce((s, m) => s + (m.avgPing ?? 0), 0) / metrics.length : 0;
+  const globalPacketLoss = metrics.length ? metrics.reduce((s, m) => s + m.packetLoss, 0) / metrics.length : 0;
 
   const orderMap = Object.fromEntries(monitors.map(m => [m.id, m.order_index ?? 0]));
   const sortedMetrics = [...metrics].sort((a, b) => (orderMap[a.id] ?? 0) - (orderMap[b.id] ?? 0));
@@ -52,7 +51,7 @@ export default function App() {
         <TopNav
           onToggleSidebar={() => setSidebarOpen(!sidebarOpen)}
         />
-        <HeaderBar globalAvgPing={globalAvgPing} connected={connected} />
+        <HeaderBar globalAvgPing={globalAvgPing} globalPacketLoss={globalPacketLoss} connected={connected} />
         <div className="flex-1 overflow-y-auto px-6 pb-6 pt-4">
           {paused && (
             <div className="mb-3 rounded-[20px] border border-yellow-500/30 bg-yellow-500/10 px-4 py-2 text-sm text-yellow-400 backdrop-blur-sm">
