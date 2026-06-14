@@ -75,21 +75,17 @@ NetDashboard/
 4. Metrics are broadcast via **WebSocket** to all connected clients in real-time
 5. The frontend renders live-updating cards and charts for each monitored host
 
-### Health Grades
+### Health Grades & Status Colors
 
-| Grade | Condition                     |
-| ----- | ----------------------------- |
-| A     | avgPing ≤ 30ms, loss < 1%     |
-| B     | avgPing ≤ 60ms, loss < 5%     |
-| C     | Everything else               |
+Grades are derived from status color, so they always stay in sync:
 
-### Status Colors
+| Status  | Grade | Condition                              |
+| ------- | ----- | -------------------------------------- |
+| Green   | A     | avgPing ≤ 50ms and loss ≤ 1%           |
+| Yellow  | B     | avgPing 51–100ms or loss 1–5%          |
+| Red     | C     | avgPing > 100ms or loss > 5%           |
 
-| Color    | Condition                       |
-| -------- | ------------------------------- |
-| Green    | avgPing ≤ 50ms, loss ≤ 1%       |
-| Yellow   | avgPing ≤ 60ms, loss ≤ 5%       |
-| Red      | avgPing > 60ms or loss > 5%     |
+The card theme color (dot, chart line, and grade badge) always matches the current status.
 
 ## Configuration
 
