@@ -6,11 +6,7 @@ interface Props {
 }
 
 export const statusColorMap = { green: '#22c55e', yellow: '#eab308', red: '#ef4444' };
-const gradeClasses: Record<string, string> = {
-  A: 'bg-green-500/15 text-green-500',
-  B: 'bg-blue-500/15 text-blue-500',
-  C: 'bg-yellow-500/15 text-yellow-500',
-};
+const colorTailwindMap = { green: 'bg-green-500/15 text-green-500', yellow: 'bg-yellow-500/15 text-yellow-500', red: 'bg-red-500/15 text-red-500' };
 
 export function MonitorCard({ metric }: Props) {
   const lineColor = statusColorMap[metric.statusColor];
@@ -67,7 +63,7 @@ export function MonitorCard({ metric }: Props) {
             <p className="mt-[2px] text-[11px] text-gray-500">{metric.hostname}</p>
           </div>
         </div>
-        <span className={`rounded-full px-2.5 py-0.5 text-xs font-bold tracking-wide ${gradeClasses[metric.grade] ?? gradeClasses.C}`}>
+        <span className={`rounded-full px-2.5 py-0.5 text-xs font-bold tracking-wide ${colorTailwindMap[metric.statusColor] ?? colorTailwindMap.red}`}>
           {metric.grade}
         </span>
       </div>

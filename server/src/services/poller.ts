@@ -100,13 +100,10 @@ function calcAllMetrics(): PollerMetrics[] {
     }));
 
     let statusColor: 'green' | 'yellow' | 'red' = 'green';
-    if (avgPing > 60 || packetLoss > 5) statusColor = 'red';
+    if (avgPing > 100 || packetLoss > 5) statusColor = 'red';
     else if (avgPing > 50 || packetLoss > 1) statusColor = 'yellow';
 
-    let grade: 'A' | 'B' | 'C' = 'A';
-    if (avgPing <= 30 && packetLoss < 1) grade = 'A';
-    else if (avgPing <= 60 && packetLoss < 5) grade = 'B';
-    else grade = 'C';
+    const grade: 'A' | 'B' | 'C' = statusColor === 'green' ? 'A' : statusColor === 'yellow' ? 'B' : 'C';
 
     return {
       id: m.id, hostname: m.hostname, label: m.label, enabled: m.enabled,

@@ -45,13 +45,12 @@ export default function App() {
         onRemove={handleRemoveMonitor}
         onReorder={handleReorderMonitors}
         collapsed={!sidebarOpen}
+        paused={paused}
+        onTogglePause={handleTogglePause}
       />
       <div className="flex flex-1 flex-col overflow-hidden">
         <TopNav
-          paused={paused}
-          onTogglePause={handleTogglePause}
           onToggleSidebar={() => setSidebarOpen(!sidebarOpen)}
-          onAddMonitor={() => {}}
         />
         <HeaderBar globalAvgPing={globalAvgPing} connected={connected} />
         <div className="flex-1 overflow-y-auto px-6 pb-6 pt-4">

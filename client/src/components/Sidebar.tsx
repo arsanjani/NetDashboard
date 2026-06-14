@@ -7,9 +7,11 @@ interface Props {
   onRemove: (id: number) => void;
   onReorder?: (order: Array<{ id: number; order_index: number }>) => void;
   collapsed: boolean;
+  paused: boolean;
+  onTogglePause: () => void;
 }
 
-export function Sidebar({ monitors, metrics, onAdd, onRemove, onReorder, collapsed }: Props) {
+export function Sidebar({ monitors, metrics, onAdd, onRemove, onReorder, collapsed, paused, onTogglePause }: Props) {
   const [input, setInput] = useState('');
   const [dragFrom, setDragFrom] = useState<number | null>(null);
 
@@ -49,6 +51,23 @@ export function Sidebar({ monitors, metrics, onAdd, onRemove, onReorder, collaps
           <h1 className="text-lg font-semibold tracking-tight">NetDashboard</h1>
           <p className="mt-1 text-xs tracking-tight text-gray-400">Internet, in intensive care</p>
         </div>
+
+        <button
+          onClick={onTogglePause}
+          className={`mb-4 w-full rounded-lg px-3 py-2 text-xs font-medium transition-all ${paused ? 'border border-green-500/30 bg-green-500/10 text-green-400 hover:bg-green-500/20' : 'border border-red-500/30 bg-red-500/10 text-red-400 hover:bg-red-500/20'}`}
+        >
+          {paused ? (
+            <span className="flex items-center justify-center gap-1.5">
+              <svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor"><path d="M2 1.5v7l5.5-3.5z" /></svg>
+              Resume
+            </span>
+          ) : (
+            <span className="flex items-center justify-center gap-1.5">
+              <svg width="10" height="10" viewBox="0 0 10 10" fill="currentColor"><rect x="1.5" y="1" width="2.5" height="8" rx="0.5" /><rect x="6" y="1" width="2.5" height="8" rx="0.5" /></svg>
+              Pause
+            </span>
+          )}
+        </button>
 
         <div className="mb-2 flex items-center justify-between">
           <span className="text-[11px] font-semibold uppercase tracking-widest text-gray-500">Monitors</span>
